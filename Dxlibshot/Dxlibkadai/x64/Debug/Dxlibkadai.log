@@ -1,0 +1,9 @@
+﻿  Dxlibkadai.cpp
+C:\就活\DxlibShooting\Dxlibshot\Dxlibkadai\Dxlibkadai.cpp(132,35): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\就活\DxlibShooting\Dxlibshot\Dxlibkadai\Dxlibkadai.cpp(133,35): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\就活\DxlibShooting\Dxlibshot\Dxlibkadai\Dxlibkadai.cpp(146,34): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\就活\DxlibShooting\Dxlibshot\Dxlibkadai\Dxlibkadai.cpp(147,34): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\就活\DxlibShooting\Dxlibshot\Dxlibkadai\Dxlibkadai.cpp(312,27): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\就活\DxlibShooting\Dxlibshot\Dxlibkadai\Dxlibkadai.cpp(328,27): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\就活\DxlibShooting\Dxlibshot\Dxlibkadai\Dxlibkadai.cpp(344,27): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  Dxlibkadai.vcxproj -> C:\就活\DxlibShooting\Dxlibshot\x64\Debug\Dxlibkadai.exe
